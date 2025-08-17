@@ -34,7 +34,7 @@
 - choose music
 - add crash sound & losing sound
 - highest score
-- difficulty levels (how fast the snake moves)
+- difficulty levels (how fast  the snake moves)
 
 
 # Variables: 
