@@ -22,20 +22,15 @@
 - another fruit appears on a random empty box when the snak eats the fruit
 - the snake loses when it hits the border or itself
 
-
-# Strat Game 
-- initially the screen shows a "start game button" 
-- the game takes 2 second to start before the snake starts moving
-
-
 # Upper header:
 - Score: keeping score of how many fruits the snake ate
+- High score: keeping track of teh highest score
 
 
 # Board: 
--the board is a square grid wit
+-the board is a square grid
 
-# extras:
+# Recommended:
 - change the color of the snake
 - black mode
 - change the fruit
@@ -62,4 +57,5 @@
 
 
 # Resources 
-- 
+- W3 schools
+- Youtube Toturial
