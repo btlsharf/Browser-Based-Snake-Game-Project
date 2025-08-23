@@ -1,6 +1,14 @@
 # Browser-Based-Snake-Game-Project
  This game was done by Batool <3
 
+
+ # Game Instructions
+ - The snake goal is to reach the highest score possible
+ - To increase your score, the snake eats the fruit that randomly appears in the board
+ - Once the fruit is eaten, another appears randomly
+ - The snake loses when it hits the border or itself
+ - The snake can chnage direction as one of the arrows are clicked
+
 # Planning --------------------------------------------------
 
  
