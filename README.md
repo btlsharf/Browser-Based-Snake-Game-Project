@@ -31,7 +31,7 @@ You can play the game here: https://btlsharf.github.io/Browser-Based-Snake-Game-
 - Score: keeping score of how many fruits the snake ate
 - High score: keeping track of teh highest score
 
-# Future Improvements
+# Recommended
 - change the color of the snake
 - black mode
 - change the fruit
