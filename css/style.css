@@ -56,6 +56,53 @@ body{
 }
 
 .logo {
-    width:100px;
+    width:200px;
     margin: 20px;
+}
+
+#instructions {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    margin: 40px;
+    padding: 10px;
+    width: 50vmin;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+#logo-div {
+    margin: 30px;
+    width: 50vmin;
+    display: flex;
+    justify-content: center;
+}
+
+.arrows {
+    width: 50vmin;
+    justify-content: center;
+}
+
+.ar2, .ar1 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.ar1 div, .ar2 div {
+    border-radius: 5px;
+    background-color: #446228;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-right: 15px;
+}
+
+.arrow-img {
+    width: 60px;
+    height: 60px;
+}
+#instructions-buttons {
+    margin-bottom: 30px;
 }

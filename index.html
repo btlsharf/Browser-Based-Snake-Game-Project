@@ -11,7 +11,9 @@
     <script src="js/app.js" defer></script>
   </head>
   <body>
-    <img class="logo" src="resources/snake-logo.png" alt="snake-logo" />
+    <div id="logo-div">
+      <img class="logo" src="resources/snake-logo.png" alt="snake-logo" />
+    </div>
     <div class="wrapper">
         <div class="game-details">
             <span class="score">Score: 0</span>
@@ -19,6 +21,34 @@
         </div>
         <div class="play-board"></div>
     </div>
-    <img class="logo" src="resources/snake-logo.png" alt="snake-logo" />
+    <div id="instructions">
+      <div id="instructions-words">
+        <p>Press the arrow to move the snake</p>
+        <p>Eat the fruits to grow!</p>
+      </div>
+      <div id="instructions-buttons">
+        <div class="arrows">
+          <div class="ar1">
+            <div id="up">
+              <img class="arrow-img" src="resources/up.png" alt="up-arrow">
+            </div>
+          </div>
+          <div class="ar2">
+            <div id="left">
+              <img class="arrow-img" src="resources/left.png" alt="left-arrow">
+            </div>
+          <div id="down">
+            <img class="arrow-img" src="resources/down.png" alt="down-arrow">
+          </div>
+          <div id="right">
+            <img class="arrow-img" src="resources/right.png" alt="right-arrow">
+          </div>
+          </div>
+        </div>
+      </div>
+      <div id="instructions-words">
+        <p>Hint: avoid hitting the walls or yourself</p>
+      </div>
+    </div>
   </body>
 </html>
